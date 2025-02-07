@@ -7,6 +7,7 @@ This project focuses on hand tracking using Python. It aims to provide a compreh
 - Real-time hand detection
 - Gesture recognition
 - High accuracy and performance
+- FPS
 
 ## Installation
 To get started with the project, you need to clone the repository and install the necessary dependencies.
